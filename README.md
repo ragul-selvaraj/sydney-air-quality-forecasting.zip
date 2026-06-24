@@ -105,8 +105,7 @@ sydney-air-quality-forecasting/
 
 ## Author
 
-**Ragul Balaji Selvaraj** — Melbourne, Australia
-Operations professional transitioning into data analytics & data engineering.
+**Ragul Balaji Selvaraj** — Melbourne, Australia Professional Data/Business analytics & data engineering.
 
 - Email: ragulbalajiselvaraj@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ragulbalajiselvaraj
